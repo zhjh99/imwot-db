@@ -47,7 +47,7 @@ public class DBContext {
 
 	/**
 	 * 
-	 * 获取所有数据库操作实例
+	 * 获取数据库操作实例
 	 * 
 	 * @return DB
 	 * @exception/throws
